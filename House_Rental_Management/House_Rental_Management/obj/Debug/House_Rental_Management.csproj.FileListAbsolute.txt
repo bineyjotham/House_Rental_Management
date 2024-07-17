@@ -1,0 +1,15 @@
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\bin\Debug\House_Rental_Management.exe.config
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\bin\Debug\House_Rental_Management.exe
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\bin\Debug\House_Rental_Management.pdb
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.csproj.AssemblyReference.cache
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.Form1.resources
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.Properties.Resources.resources
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.Tenants.resources
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.csproj.GenerateResource.cache
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.csproj.CoreCompileInputs.cache
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.exe
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.pdb
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.Apartments.resources
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.Categories.resources
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.Landlords.resources
+C:\Users\hi.DESKTOP-3TRLI97\Desktop\C# Practical\House_Rental_Management\House_Rental_Management\obj\Debug\House_Rental_Management.Rents.resources
